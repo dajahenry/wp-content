@@ -591,6 +591,7 @@ function wpforms_get_form_fields( $form = false, $whitelist = array() ) {
 		'address',
 		'url',
 		'name',
+		'mission',
 		'hidden',
 		'date-time',
 		'phone',
