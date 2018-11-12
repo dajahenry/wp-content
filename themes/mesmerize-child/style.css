@@ -8,3 +8,9 @@ Text-Domain: mesmerize-child
 h1 {
 	text-align: center;
 }
+
+p {
+	font-color: black;
+}
+.photo {
+	zoom: 2.0;}
