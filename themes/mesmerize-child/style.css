@@ -13,4 +13,9 @@ p {
 	font-color: black;
 }
 .photo {
-	zoom: 2.0;}
+	zoom: 2.0;
+}
+
+.button{
+	color: magenta;
+}
